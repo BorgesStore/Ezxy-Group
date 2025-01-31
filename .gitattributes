@@ -1,2 +1,3 @@
 client.dll filter=lfs diff=lfs merge=lfs -text
 Client.dll filter=lfs diff=lfs merge=lfs -text
+Inject[[:space:]]Basic.exe filter=lfs diff=lfs merge=lfs -text
